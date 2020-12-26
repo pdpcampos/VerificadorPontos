@@ -1,0 +1,12 @@
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csprojAssemblyReference.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb

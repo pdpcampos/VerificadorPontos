@@ -1,0 +1,9 @@
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.deps.json
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csprojAssemblyReference.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfoInputs.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfo.cs
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb

@@ -1,0 +1,4 @@
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Infra.Repository.Detran.Tests\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.Tests.csprojAssemblyReference.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Infra.Repository.Detran.Tests\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.Tests.AssemblyInfoInputs.cache
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Infra.Repository.Detran.Tests\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.Tests.AssemblyInfo.cs
+C:\Users\Demetryus\Documents\projetosAvanade\designPatterCsharp\DesignPatternSamples\src\Infra.Repository.Detran.Tests\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.Tests.csproj.CoreCompileInputs.cache

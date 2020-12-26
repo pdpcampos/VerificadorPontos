@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4nIDxKayOPtnF+dIO5gJXADEOgUZROoX2pLfXwVmMXnzL/WHEIZKmGH4z+yxnhE7RW4Gst+EAjx+i/CB8oOnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Demetryus\\Documents\\projetosAvanade\\designPatterCsharp\\DesignPatternSamples\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Demetryus\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Demetryus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Demetryus\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

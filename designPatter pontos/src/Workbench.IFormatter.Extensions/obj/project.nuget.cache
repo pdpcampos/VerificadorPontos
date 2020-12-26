@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7CiQV8rolQpyDi+qqxQw/1Gk/3w2uwUVadFPFKt3YHKZYeRAHdbP+/iPyF8WeDITweHzuRuq01Dp5CNVOQ1nzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Demetryus\\Documents\\projetosAvanade\\designPatterCsharp\\DesignPatternSamples\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Demetryus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Demetryus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
