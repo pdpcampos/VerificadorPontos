@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DesignPatternSamples",
+    "\\DesignPatternSamples\\src",
+    "\\DesignPatternSamples\\src\\Domain",
+    "\\DesignPatternSamples\\src\\Domain\\Repository",
+    "\\DesignPatternSamples\\src\\Infra.Repository.Detran"
+  ],
+  "SelectedNode": "\\DesignPatternSamples\\src\\Infra.Repository.Detran\\DetranPEVerificadorPontosRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
